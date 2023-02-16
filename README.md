@@ -1,3 +1,4 @@
 # Chinezu-DATING-legacy
 
-Cel mai bun site de dating din Dobrogea de Sud*
+Un proiect făcut la mișto că să mă pricep mai bine
+la C++
